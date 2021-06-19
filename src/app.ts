@@ -27,10 +27,6 @@ class Restaurant {
     }
 
 }
-/*
+
 let app = new Restaurant();
 app.reportRoutes();
-*/
-const dron = new Dron(1,5,1);
-            let schema = ["AAAAD"]
-            dron.report(schema)

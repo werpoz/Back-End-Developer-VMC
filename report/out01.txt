@@ -1,2 +1,4 @@
 ==Reporte de entregas==
-(0,4) direccion Oriente
+(-2,4) direccion Occidente
+(-3,3) direccion Sur
+(-2,-1) direccion Sur
